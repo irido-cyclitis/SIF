@@ -5,7 +5,7 @@
 
 Content of a file: img.sif . values outside 32...126 range displayed in italics as *[byte value]*:
 
-**2x2.x#*[145]*d*[24]*dd*[28]* *[145]*dd-**
+2x2.x#*[145]*d*[24]*dd*[28]* *[145]*dd-
 
 A 1024x1024 image will be 3.145738 MB.<br>
 A 500x500 image will be 258 KB.<br>
