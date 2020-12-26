@@ -17,3 +17,5 @@ Every Pixel will take 3 bytes of storage + A prefix will draw **int**x**int** pi
 Every pixel has it's RGB Color, So I converted the RGB values as Decimal values. The image above is Decimal to ASCII.
 
 The image is easy to read "by a software" and can be shrinked!
+
+Quality isn't a factor that affects file size, since it's storing the image in nearly-raw format
