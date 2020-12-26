@@ -1,6 +1,6 @@
 # .SIF - Standard Image Format
 
-2x2 pixels image "Size: 12 bytes + 4 bytes = 16 bytes"
+2x2 pixels image "Size: 12 bytes + 4 bytes = 16 bytes" <br>
 ![](https://i.imgur.com/7T9MvdS.png)
 
 Content of a file: img.sif . values outside 32...126 range displayed in italics as *[byte value]*:
