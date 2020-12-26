@@ -7,10 +7,10 @@ Content of a file: img.sif . values outside 32...126 range displayed in italics 
 
 2x2.x#*[145]*d*[24]*dd* *[28]* *[145]*dd-
 
-A 1024x1024 image will be 13 MB.<br>
-A 500x500 image will be ~8.7MB.<br>
-A 4096x4096 image will be 58 MB.<br>
-A 10000x10000 image will be ~298.1MB.<br>
+A 1024x1024 image will be ~3.14 MB.<br>
+A 500x500 image will be ~0.75MB.<br>
+A 4096x4096 image will be ~50.33 MB.<br>
+A 10000x10000 image will be ~300MB.<br>
 
 Every Pixel will take 3 bytes of storage + A prefix will draw **int**x**int** pixel plane. The software "under dev." will convert the decimal char to RGB and insert it in the plane from left to right.
 
